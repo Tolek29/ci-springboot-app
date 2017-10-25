@@ -86,7 +86,7 @@
 
   <!-- Main Build -->
   <build>
-    <finalName>blood-${project.version}</finalName>
+    <finalName>ci-app</finalName>
     <plugins>
       <plugin>
         <groupId>org.springframework.boot</groupId>
